@@ -34,13 +34,3 @@ In addition to my technical and artistic skills, I can communicate effectively i
 ## Get in Touch 💌
 
 Feel free to contact me at [xavierfont@xavierfont.com](xavierfont@xavierfont.com). You can also check out my personal portfolio at [xavierfont.com](https://www.xavierfont.com). I'm open to new opportunities and always excited to take on challenging projects.
-
-## Why such a low number of repos? 🧐
-
-Over the past three years, I've ventured into numerous projects, each leaving behind a trail of repositories. However, not all of them were creations I found pride in. As someone who strongly identifies with minimalism, I chose to prune my GitHub garden, removing any repos that didn't resonate with the standard I aspire to uphold.
-
-That said, some repositories were conceived in collaboration with others and were private from the outset. As I have parted ways with these projects, the power to publish these repositories now lies with my former collaborators. I respect their decisions and await the day these repositories can see the light of day.
-
-You might notice a handful of incredibly simple repos that are currently published. These are not mistakes, but meticulously cherrypicked pieces from my journey. Each serves as a milestone, a nostalgia-inducing snapshot of my evolution into a full-stack developer. They remind me of the fun, the challenges, and the growth that this journey has entailed, like that quirky 'AlienJuan' one.
-
-So, my GitHub is less about quantity and more about a carefully curated showcase of my growth, skills, and the fun I've had along the way.
